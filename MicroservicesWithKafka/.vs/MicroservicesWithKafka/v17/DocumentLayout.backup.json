@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{693253A1-9D45-430A-9028-171B2B0E3AAB}|Solution Items{693253A1-9D45-430A-9028-171B2B0E3AAB}|C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{693253A1-9D45-430A-9028-171B2B0E3AAB}|Solution Items{693253A1-9D45-430A-9028-171B2B0E3AAB}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1BD647-72EA-468F-8EBC-AF889B2E1525}|OrderAPI\\OrderAPI.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1BD647-72EA-468F-8EBC-AF889B2E1525}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1BD647-72EA-468F-8EBC-AF889B2E1525}|OrderAPI\\OrderAPI.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\orderapi\\order_service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1BD647-72EA-468F-8EBC-AF889B2E1525}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\order_service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1BD647-72EA-468F-8EBC-AF889B2E1525}|OrderAPI\\OrderAPI.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\orderapi\\orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F1BD647-72EA-468F-8EBC-AF889B2E1525}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\orderapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254181-7446-482C-AE30-16D21654A54A}|WebApplication1\\ProductAPI.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254181-7446-482C-AE30-16D21654A54A}|WebApplication1\\ProductAPI.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1BD647-72EA-468F-8EBC-AF889B2E1525}|OrderAPI\\OrderAPI.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1BD647-72EA-468F-8EBC-AF889B2E1525}|OrderAPI\\OrderAPI.csproj|solutionrelative:orderapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A62CF9-57F2-4198-A26D-645B10C6FBD5}|Shared\\Shared.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\shared\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A62CF9-57F2-4198-A26D-645B10C6FBD5}|Shared\\Shared.csproj|solutionrelative:shared\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A62CF9-57F2-4198-A26D-645B10C6FBD5}|Shared\\Shared.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\shared\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A62CF9-57F2-4198-A26D-645B10C6FBD5}|Shared\\Shared.csproj|solutionrelative:shared\\ordersummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254181-7446-482C-AE30-16D21654A54A}|WebApplication1\\ProductAPI.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254181-7446-482C-AE30-16D21654A54A}|WebApplication1\\ProductAPI.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254181-7446-482C-AE30-16D21654A54A}|WebApplication1\\ProductAPI.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\webapplication1\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254181-7446-482C-AE30-16D21654A54A}|WebApplication1\\ProductAPI.csproj|solutionrelative:webapplication1\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79254181-7446-482C-AE30-16D21654A54A}|WebApplication1\\ProductAPI.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\webapplication1\\productservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79254181-7446-482C-AE30-16D21654A54A}|WebApplication1\\ProductAPI.csproj|solutionrelative:webapplication1\\productservices\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A62CF9-57F2-4198-A26D-645B10C6FBD5}|Shared\\Shared.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A62CF9-57F2-4198-A26D-645B10C6FBD5}|Shared\\Shared.csproj|solutionrelative:shared\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDFDD04-96AD-496E-976F-3DB24C117CDF}|Project1\\Microservice.csproj|c:\\users\\lat\\source\\repos\\microserviceswithkafka\\project1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDFDD04-96AD-496E-976F-3DB24C117CDF}|Project1\\Microservice.csproj|solutionrelative:project1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:668305255:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\OrderAPI\\Program.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\OrderAPI\\Program.cs",
+              "RelativeToolTip": "OrderAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:38:17.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\OrderAPI\\OrderAPI.csproj",
+              "RelativeDocumentMoniker": "OrderAPI\\OrderAPI.csproj",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\OrderAPI\\OrderAPI.csproj",
+              "RelativeToolTip": "OrderAPI\\OrderAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T04:57:10.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderSummary.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\Shared\\OrderSummary.cs",
+              "RelativeDocumentMoniker": "Shared\\OrderSummary.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\Shared\\OrderSummary.cs",
+              "RelativeToolTip": "Shared\\OrderSummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:53:46.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\Shared\\Order.cs",
+              "RelativeDocumentMoniker": "Shared\\Order.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\Shared\\Order.cs",
+              "RelativeToolTip": "Shared\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:51:47.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\OrderAPI\\Order_Service\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Order_Service\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\OrderAPI\\Order_Service\\IOrderService.cs",
+              "RelativeToolTip": "OrderAPI\\Order_Service\\IOrderService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwD8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:48:48.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\WebApplication1\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ProductServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\WebApplication1\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "WebApplication1\\ProductServices\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T04:12:12.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:09:26.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T02:05:01.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAF8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-07T05:24:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\OrderAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\OrderAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCAAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T05:28:35.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\WebApplication1\\ProductServices\\IProductServices.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ProductServices\\IProductServices.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\WebApplication1\\ProductServices\\IProductServices.cs",
+              "RelativeToolTip": "WebApplication1\\ProductServices\\IProductServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:32:30.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\Shared\\Product.cs",
+              "RelativeDocumentMoniker": "Shared\\Product.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\Shared\\Product.cs",
+              "RelativeToolTip": "Shared\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T01:30:29.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\Project1\\Class1.cs",
+              "RelativeDocumentMoniker": "Project1\\Class1.cs",
+              "ToolTip": "C:\\Users\\LAT\\source\\repos\\MicroservicesWithKafka\\Project1\\Class1.cs",
+              "RelativeToolTip": "Project1\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:19:13.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
